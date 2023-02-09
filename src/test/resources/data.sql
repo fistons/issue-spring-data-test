@@ -1,4 +1,4 @@
-INSERT INTO customers (name, region)
-VALUES ('Dr. Carmack', 'EU'),
-       ('Pinky', 'EU'),
-       ('Revenant', 'EU');
+INSERT INTO customers (id, name, region)
+VALUES (1, 'Dr. Carmack', 'EU'),
+       (2, 'Pinky', 'EU'),
+       (3, 'Revenant', 'EU');
